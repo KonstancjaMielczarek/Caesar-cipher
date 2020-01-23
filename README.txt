@@ -1,1 +1,0 @@
-This is a simple application written in Java, which task is to encrypt the string text according to the Caesar cipher - that each letter of unencrypted text is replaced by another, separated from it by a fixed number of positions in the alphabet.
